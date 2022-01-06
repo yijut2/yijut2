@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently studying Computer Science in UCI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @Gmail: yijut2@uci.edu / @linkedin: Ruby Tsai
+- 📫 How to reach me @Gmail: yijut2@uci.edu / @Linkedin: Ruby Tsai
 
 <!---
 yijut2/yijut2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
