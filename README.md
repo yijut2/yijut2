@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruby Tsai @yijut2
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science in UCI
+- 🌱 I’m currently studying Computer Science in UCI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Gmail: yijut2@uci.edu / @linkedin: Ruby Tsai
 
